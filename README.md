@@ -87,5 +87,5 @@ This is a research artifact for reproduction and critique. Do not point it at sy
 you do not own or have written authorization to test. Code: MIT (see LICENSE). Report
 text and logs: CC BY 4.0 — cite "Counteragent Security, ASA-2026-001".
 
-Contact: scoping@counteragentsecurity.com · Lasha Ventures Sdn Bhd, trading as
+Contact: sharmadave@counteragentsecurity.com · Lasha Ventures Sdn Bhd, trading as
 Counteragent Security (Malaysia).
